@@ -4,7 +4,7 @@
 
 A lo que entiendo __paradigma__ se refiere a que hace igual algo; o que tiene un fin común.
 
-![Paradigma](C:\Users\Viry brother\Documents\GitHub\TareasPOO\Imagenes\paradigma.png)
+![Paradigma](Documents\GitHub\TareasPOO\Imagenes\paradigma.png)
 
 ## Abstracción
 
