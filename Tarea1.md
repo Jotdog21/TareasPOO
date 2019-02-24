@@ -4,7 +4,7 @@
 
 A lo que entiendo __paradigma__ se refiere a que hace igual algo; o que tiene un fin común.
 
-![Paradigma](https://github.com/Jotdog21/TareasPOO/blob/master/Imagenes/paradigma.png)
+![Paradigma](./Imagenes/paradigma.png)
 
 ## Abstracción
 
@@ -18,9 +18,9 @@ Decimos que es un mecanismo de abstracción debido a que nombramos las clases de
 
 El __Encapsulamiento__ se encarga de mantener ocultos los procesos internos que necesita para hacer los que sea que haga, dandole al programa el acceso que solo necesita.
 
-![Encapsulado](https://github.com/Jotdog21/TareasPOO/blob/master/Imagenes/encapsulado.jpg)
+![Encapsulado](./Imagenes/encapsulado.jpg)
 
-![DesEncapsulado](https://github.com/Jotdog21/TareasPOO/blob/master/Imagenes/desencapsulado.jpg)
+![DesEncapsulado](./Imagenes/desencapsulado.jpg)
 
 El encapsulamiento es importante en el momento de programar; ya que si lo utilizamos en programas mas grandes podriamos dar acceso indeseado a contraseñas de usuarios 
 
@@ -28,5 +28,27 @@ El encapsulamiento es importante en el momento de programar; ya que si lo utiliz
 
 La __herencia__ es lo que se hereda de un ser vivo; en computacion se refiere a los metodos de una clase mayor que sea igual o derivado de la clase principal, lo que seria de una clase humano que tenga el metodo de caminar; esta se heredaria a la sub-clase de Adulto en la cual no se necesita declarar un metodo caminar; Cabe decir que la herencia no se hace sola; en C# es necesario poner ":" entre las dos clases primero el que hereda y el que sigue es el que da la herencia.
 
+![ejemploDherencia](./Imagenes/herencia.png)
 
+![ejemploDherencia](./Imagenes/herencia2.jpg)
+
+![ejemploDherencia](./Imagenes/herencia2.PNG)
+
+## Curso UML: Diagrama de clases
+
+El __UML__ o Lenguaje Unificado de Modelado, es un estandar para el desarrollo de software que sirve para mejorar la comunicacion entre programadores y tambien sirve para crear un modelo de la estructura de un programa; UML consta de 13 diagramas:
+
+1. Diagrama de clases.
+2. Diagrama de casos de uso
+3. Diagrama de secuencias
+4. Diagrama de componentes
+5. Diagrama de objetos
+6. Diagrama de interaccion
+7. Diagrama de estructura compuesta
+8. Diagrama de despliegue
+9. Diagrama de paquetes
+10. Diagrama de actividades
+11. Diagrama de estados
+12. Diagrama de comunicacion
+13. Diagrama de tiempo
 
