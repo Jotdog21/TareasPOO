@@ -67,3 +67,6 @@ No
 
 ## Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. 
 
+Propongo una maquina que dispense cafe, este cafe sera hecho recien mediante una variacion de la maquina casera Dolce Gusto de Nescafe; esta cuenta con envases pequeños que contienen el cafe, este cafe sera desecho despues del uso recomendado; lo unico rellenable dependiendo de las ventas seran los vasos desechables y los envases de cafe (Cafe de varios tipos).
+
+La maquina en la parte de las clases y el diagrama constara de 2 clases; una que es la del cliente; esta contiene la cantidad de dinero que ingrese y la bebida previamente seleccionada, esta se une con la clase productos la cual contiene los metodos de servir producto y dar precios de los productos cuando son seleccionados al no contar con el dinero necesario para comprar dicho producto.
