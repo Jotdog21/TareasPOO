@@ -1,0 +1,4 @@
+C:\Users\Viry brother\Documents\GitHub\TareasPOO\ProgramaTarea2\obj\Debug\netcoreapp2.1\TareasPOO.csprojAssemblyReference.cache
+C:\Users\Viry brother\Documents\GitHub\TareasPOO\ProgramaTarea2\obj\Debug\netcoreapp2.1\TareasPOO.csproj.CoreCompileInputs.cache
+C:\Users\Viry brother\Documents\GitHub\TareasPOO\ProgramaTarea2\obj\Debug\netcoreapp2.1\TareasPOO.AssemblyInfoInputs.cache
+C:\Users\Viry brother\Documents\GitHub\TareasPOO\ProgramaTarea2\obj\Debug\netcoreapp2.1\TareasPOO.AssemblyInfo.cs
