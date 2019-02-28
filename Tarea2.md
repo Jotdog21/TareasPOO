@@ -1,0 +1,3 @@
+# Declaración de clases: atributos, métodos, encapsulamiento.
+
+Las clases y las estructuras encapsulan un conjunto de datos y comportamientos que forman un conjunto como una unidad; los datos y comportamientos son miembros de la clase o estructura, en estos se incluyen sus metodos, propiedades y eventos entre otras cosas. Una clase es un tipo de referencia que; cuando se crea un objeto de la clase, la variable a la que se asigna el objeto contiene una referencia a esa memoria. Cuando la referencia de objeto se asigna a una nueva variable, la nueva hace referencia al objeto original. Los cambios 
